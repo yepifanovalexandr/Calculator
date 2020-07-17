@@ -1,0 +1,29 @@
+C:\Users\Например Костя\Desktop\Калькулятор\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Например Костя\Desktop\Калькулятор\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Например Костя\Desktop\Калькулятор\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Например Костя\Desktop\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Например Костя\Desktop\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Например Костя\Desktop\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Например Костя\Desktop\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Например Костя\Desktop\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Например Костя\Desktop\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Например Костя\Desktop\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Рабочая профессия\Калькулятор\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Рабочая профессия\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Рабочая профессия\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Рабочая профессия\Калькулятор\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Рабочая профессия\Калькулятор\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Рабочая профессия\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Рабочая профессия\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\Рабочая профессия\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Рабочая профессия\Калькулятор\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Sanya\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Sanya\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Sanya\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Sanya\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Sanya\source\repos\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Sanya\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Sanya\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Sanya\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Sanya\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
